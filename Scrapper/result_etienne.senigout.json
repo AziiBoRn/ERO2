@@ -1,0 +1,1435 @@
+{
+    "int_vector_max": {
+        "tags": {
+            "fd5dd866-0eee-4742-8c84-a67a1f994370": {
+                "submission_date": "2023-10-04 15:46:00",
+                "rank": "A",
+                "time": 0,
+                "percentile": 1
+            }
+        }
+    },
+    "handling_complex": {
+        "tags": {
+            "fc2914d6-f047-419d-b9b7-785b742dd0e0": {
+                "submission_date": "2023-10-04 13:06:00",
+                "rank": "F",
+                "time": 515,
+                "percentile": 6
+            }
+        }
+    },
+    "pi_generator": {
+        "tags": {
+            "7289f4db-a01e-48e9-bb3c-72ff65058fee": {
+                "submission_date": "2023-10-03 13:44:00",
+                "rank": "B",
+                "time": 0,
+                "percentile": 2
+            }
+        }
+    },
+    "int_palindrome": {
+        "tags": {
+            "a8bcb66b-9c73-4e57-ad27-551f12142608": {
+                "submission_date": "2023-10-02 21:28:00",
+                "rank": "C",
+                "time": 4,
+                "percentile": 3
+            }
+        }
+    },
+    "digit": {
+        "tags": {
+            "579babc9-4810-4589-8644-3b27d0c62671": {
+                "submission_date": "2023-10-02 21:20:00",
+                "rank": "B",
+                "time": 3,
+                "percentile": 2
+            }
+        }
+    },
+    "io_append_file": {
+        "tags": {
+            "7790d73b-bb59-4629-acc3-43524a68fa73": {
+                "submission_date": "2023-10-11 16:04:00",
+                "rank": "A",
+                "time": 4,
+                "percentile": 1
+            },
+            "37caf77d-1895-4eb3-8ba6-8a6b31b7aeb0": {
+                "submission_date": "2023-10-11 15:54:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "spoilers": {
+        "tags": {
+            "1b0d9cf8-59e1-4089-8fb0-a1592eee86b4": {
+                "submission_date": "2023-10-09 20:55:00",
+                "rank": "B",
+                "time": 1,
+                "percentile": 2
+            }
+        }
+    },
+    "connect4": {
+        "tags": {
+            "bf34a513-c2f7-4db6-8287-edaf7ad78ad4": {
+                "submission_date": "2023-10-06 14:15:00",
+                "rank": "E",
+                "time": 267,
+                "percentile": 5
+            },
+            "f6ed5e28-e764-4fae-8091-3947a797dabf": {
+                "submission_date": "2023-10-06 14:09:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            },
+            "021539e8-b78b-47cb-a399-e328688ad82f": {
+                "submission_date": "2023-10-06 14:02:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "int_mats_mult": {
+        "tags": {
+            "41fe2216-bfbc-4dee-b8ec-9622e974d901": {
+                "submission_date": "2023-10-04 11:10:00",
+                "rank": "C",
+                "time": 6,
+                "percentile": 3
+            }
+        }
+    },
+    "assignment_operator": {
+        "tags": {
+            "1214dae1-2eec-4986-b5ad-bd5ef41d9e24": {
+                "submission_date": "2023-10-02 20:17:00",
+                "rank": "F",
+                "time": 1361,
+                "percentile": 6
+            }
+        }
+    },
+    "pointer_swap": {
+        "tags": {
+            "b26e2ae3-04d1-45dc-95e5-861bb12db276": {
+                "submission_date": "2023-10-02 18:21:00",
+                "rank": "D",
+                "time": 0,
+                "percentile": 4
+            }
+        }
+    },
+    "add_int_ptr": {
+        "tags": {
+            "dddbdf0c-4568-4c96-876a-28fb9ef1b931": {
+                "submission_date": "2023-10-02 17:58:00",
+                "rank": "A",
+                "time": 0,
+                "percentile": 1
+            }
+        }
+    },
+    "functional_programming_advanced": {
+        "tags": {
+            "d628ea77-7c6c-4b22-8acc-9aef99df850e": {
+                "submission_date": "2023-10-13 15:07:00",
+                "rank": "E",
+                "time": 347,
+                "percentile": 5
+            }
+        }
+    },
+    "functional_programming": {
+        "tags": {
+            "8e0dbab9-2401-4b6f-af9e-38f46bf1720c": {
+                "submission_date": "2023-10-12 13:51:00",
+                "rank": "D",
+                "time": 6,
+                "percentile": 4
+            },
+            "baa9313a-ac4e-46b8-9aa3-5ce4c73db973": {
+                "submission_date": "2023-10-12 13:47:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "general_tree_lcrs": {
+        "tags": {}
+    },
+    "binary_tree_dynamic": {
+        "tags": {
+            "c317a0d7-5a38-4e05-b836-837b53b319e4": {
+                "submission_date": "2023-10-09 19:41:00",
+                "rank": "E",
+                "time": 730,
+                "percentile": 5
+            },
+            "656f77e0-35cc-4f51-b4ea-be9ca3684c16": {
+                "submission_date": "2023-10-09 19:04:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            },
+            "718e0b92-faf7-4453-81c3-577b06d9f2a9": {
+                "submission_date": "2023-10-09 18:59:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "my_memcpy": {
+        "tags": {
+            "d83b7054-1cb3-48f4-9145-80befb733129": {
+                "submission_date": "2023-10-10 17:25:00",
+                "rank": "A",
+                "time": 0,
+                "percentile": 1
+            }
+        }
+    },
+    "str_revert": {
+        "tags": {
+            "727accf4-acd8-4737-bf2a-80a17a4bfdfc": {
+                "submission_date": "2023-10-03 14:51:00",
+                "rank": "E",
+                "time": 0,
+                "percentile": 5
+            }
+        }
+    },
+    "palindrome": {
+        "tags": {
+            "56cf76da-9f6b-4fde-a952-d2b3edc76db2": {
+                "submission_date": "2023-10-03 14:33:00",
+                "rank": "A",
+                "time": 65,
+                "percentile": 1
+            },
+            "4877e7d8-864d-4878-bbdf-ea5ba783b702": {
+                "submission_date": "2023-10-03 14:20:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "cat": {
+        "tags": {}
+    },
+    "int_vector_insert_sort": {
+        "tags": {
+            "e410f7a8-4875-4897-a2a9-1014638ffef9": {
+                "submission_date": "2023-10-04 17:02:00",
+                "rank": "C",
+                "time": 8,
+                "percentile": 3
+            }
+        }
+    },
+    "int_vector_vice_max": {
+        "tags": {
+            "30e78358-e3a6-4ea7-9542-8f0e1818eada": {
+                "submission_date": "2023-10-04 16:22:00",
+                "rank": "D",
+                "time": 0,
+                "percentile": 4
+            }
+        }
+    },
+    "int_vector_print": {
+        "tags": {
+            "9d117e05-3c82-4d64-9da7-b7cf0a3cfd9d": {
+                "submission_date": "2023-10-04 16:04:00",
+                "rank": "D",
+                "time": 0,
+                "percentile": 4
+            }
+        }
+    },
+    "int_vector_hill": {
+        "tags": {
+            "a57d5605-0804-48e2-83b2-71faa7945a8e": {
+                "submission_date": "2023-10-04 15:53:00",
+                "rank": "F",
+                "time": 15,
+                "percentile": 6
+            }
+        }
+    },
+    "my_memset": {
+        "tags": {
+            "c2ace795-dbd3-4810-a9bd-b7767422bee8": {
+                "submission_date": "2023-10-10 16:35:00",
+                "rank": "A",
+                "time": 0,
+                "percentile": 1
+            }
+        }
+    },
+    "bst": {
+        "tags": {
+            "6bf9e568-246a-46e5-af88-9ef2c3e07a46": {
+                "submission_date": "2023-10-10 20:50:00",
+                "rank": "E",
+                "time": 739,
+                "percentile": 5
+            },
+            "74b7958f-e21c-4f42-ae01-a231c186abfe": {
+                "submission_date": "2023-10-10 20:46:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            },
+            "9025d87e-9574-4aa0-b151-1c5f719783b4": {
+                "submission_date": "2023-10-10 20:11:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "lakes": {
+        "tags": {
+            "720b93f3-c361-42b0-9319-677e242d3050": {
+                "submission_date": "2023-10-05 19:51:00",
+                "rank": "B",
+                "time": 0,
+                "percentile": 2
+            }
+        }
+    },
+    "bit_rotation": {
+        "tags": {
+            "c6a2fa89-3649-4a8a-ab2d-6debfb750cf6": {
+                "submission_date": "2023-10-09 16:51:00",
+                "rank": "A",
+                "time": 0,
+                "percentile": 1
+            }
+        }
+    },
+    "test_a_bit": {
+        "tags": {
+            "40dd49f5-bed7-4f34-a1d5-24e49ea3c341": {
+                "submission_date": "2023-10-09 16:48:00",
+                "rank": "D",
+                "time": 0,
+                "percentile": 4
+            }
+        }
+    },
+    "hash_map": {
+        "tags": {
+            "4e36df1f-6f44-4dcb-b995-f9b37d753560": {
+                "submission_date": "2023-10-11 22:03:00",
+                "rank": "A",
+                "time": 129,
+                "percentile": 1
+            },
+            "3e494480-8621-4aba-a31e-fb7a7e9e3ac0": {
+                "submission_date": "2023-10-11 21:56:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "dlist": {
+        "tags": {
+            "d847ffca-aa07-4438-a821-786025b8a7e0": {
+                "submission_date": "2023-10-11 21:48:00",
+                "rank": "E",
+                "time": 616,
+                "percentile": 5
+            },
+            "1331d2b8-d49b-4996-a6d6-9f0c4048b1df": {
+                "submission_date": "2023-10-11 21:44:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            },
+            "8eac4893-81b6-412a-b8f1-58a5f25be24e": {
+                "submission_date": "2023-10-11 21:18:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            },
+            "e36dee29-c80c-49a3-b717-cb4ed825b36c": {
+                "submission_date": "2023-10-10 21:57:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            },
+            "28ac9017-2d42-4905-aafd-53862b36f82f": {
+                "submission_date": "2023-10-10 21:46:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "my_atoi_base": {
+        "tags": {
+            "32d2a459-0359-41f3-b33f-d19b3e88f034": {
+                "submission_date": "2023-10-04 10:35:00",
+                "rank": "C",
+                "time": 7,
+                "percentile": 3
+            }
+        }
+    },
+    "my_itoa": {
+        "tags": {
+            "26380a07-22e0-4e2c-bfc0-f4ecaea94209": {
+                "submission_date": "2023-10-03 21:32:00",
+                "rank": "D",
+                "time": 9,
+                "percentile": 4
+            }
+        }
+    },
+    "my_strlen": {
+        "tags": {
+            "f33da543-a44e-4b27-a0f9-717656664d96": {
+                "submission_date": "2023-10-03 13:58:00",
+                "rank": "F",
+                "time": 12,
+                "percentile": 6
+            },
+            "a4549eda-e57b-48b0-9a39-cfff1a93b0f8": {
+                "submission_date": "2023-10-03 13:54:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            },
+            "bfb2b5f2-0478-4661-ab7f-fa05103e4545": {
+                "submission_date": "2023-10-03 13:52:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "simple_fnmatch": {
+        "tags": {
+            "dd9d29f9-7c8f-4204-b00b-4589af267280": {
+                "submission_date": "2023-10-11 13:44:00",
+                "rank": "C",
+                "time": 657,
+                "percentile": 3
+            },
+            "40035e41-163b-4732-84f1-1a8bbffc5256": {
+                "submission_date": "2023-10-10 14:59:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            },
+            "0863d9ad-ab89-45a2-b31a-82694018ad26": {
+                "submission_date": "2023-10-10 14:50:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            },
+            "642485e1-9f4d-4ec0-ab42-6e41f9c004b1": {
+                "submission_date": "2023-10-10 14:39:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            },
+            "c008e060-3941-4d9e-a89b-e9638962c47f": {
+                "submission_date": "2023-10-10 14:29:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "my_calloc": {
+        "tags": {
+            "0d9fd7be-f909-44e6-ae2f-418386338445": {
+                "submission_date": "2023-10-03 17:56:00",
+                "rank": "F",
+                "time": 3,
+                "percentile": 6
+            }
+        }
+    },
+    "fifo": {
+        "tags": {
+            "997e874b-f304-4498-a517-c75d67d225ed": {
+                "submission_date": "2023-10-07 19:04:00",
+                "rank": "B",
+                "time": 10,
+                "percentile": 2
+            },
+            "9a9aaa21-1529-488f-918c-d37eddf045c5": {
+                "submission_date": "2023-10-07 18:20:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            },
+            "208362f3-42cb-442e-a7fe-86c16766232c": {
+                "submission_date": "2023-10-07 17:39:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "tinylibstream": {
+        "tags": {
+            "a285273e-7b0b-4460-86d0-0015ed01d727": {
+                "submission_date": "2023-10-12 22:22:00",
+                "rank": "A",
+                "time": 310,
+                "percentile": 1
+            },
+            "f9b05a95-e8ea-45ff-a4b1-f754f6e657b3": {
+                "submission_date": "2023-10-12 21:37:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            },
+            "ca1fe304-edaf-4b54-adb0-d47115382071": {
+                "submission_date": "2023-10-12 20:02:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            },
+            "1db6efdf-bde9-4d7d-8d32-ee2c8cfcbdcf": {
+                "submission_date": "2023-10-12 19:14:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "io_reverse_content": {
+        "tags": {
+            "9d0ef15d-ad52-4972-9f70-326917357821": {
+                "submission_date": "2023-10-12 13:41:00",
+                "rank": "E",
+                "time": 22,
+                "percentile": 5
+            }
+        }
+    },
+    "io_replace_line": {
+        "tags": {
+            "b0c9d5a1-9d7c-4d3c-be6e-ce573406c516": {
+                "submission_date": "2023-10-11 22:22:00",
+                "rank": "A",
+                "time": 19,
+                "percentile": 1
+            },
+            "10e08c43-e844-4d1e-a684-4b74f95a09a3": {
+                "submission_date": "2023-10-11 22:20:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "io_insert_line": {
+        "tags": {
+            "063d605a-76d9-4dfa-8acf-02da1aa11ac1": {
+                "submission_date": "2023-10-12 15:15:00",
+                "rank": "D",
+                "time": 39,
+                "percentile": 4
+            },
+            "b20d1e24-752a-4fee-8066-a99d7c2e6e24": {
+                "submission_date": "2023-10-12 14:53:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            },
+            "ef15eb5e-0b21-42e8-9704-eeb49d9e7a4b": {
+                "submission_date": "2023-10-12 14:50:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "my_daemon": {
+        "tags": {
+            "8024f8dd-5d8a-47c1-9daf-3c09b81f7f3a": {
+                "submission_date": "2023-10-12 15:35:00",
+                "rank": "C",
+                "time": 1276000,
+                "percentile": 3
+            },
+            "2c0fca1b-80cb-46df-96b5-011ca5c6b70c": {
+                "submission_date": "2023-10-12 15:30:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            },
+            "a0244a47-9b9b-46b4-b254-6d14c194d687": {
+                "submission_date": "2023-10-12 15:28:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "my_atoi": {
+        "tags": {
+            "85ad42d6-49f6-4170-9550-74a28762998a": {
+                "submission_date": "2023-10-03 18:33:00",
+                "rank": "C",
+                "time": 115,
+                "percentile": 3
+            }
+        }
+    },
+    "generic_void_list": {
+        "tags": {
+            "1ed02486-0397-490a-83f2-b6070f911168": {
+                "submission_date": "2023-10-10 18:28:00",
+                "rank": "C",
+                "time": 6,
+                "percentile": 3
+            }
+        }
+    },
+    "stack": {
+        "tags": {
+            "85f36b9b-074f-4034-b66b-0ec4924973ea": {
+                "submission_date": "2023-10-05 16:42:00",
+                "rank": "A",
+                "time": 0,
+                "percentile": 1
+            }
+        }
+    },
+    "my_memmove": {
+        "tags": {
+            "4e2b163b-454c-43fc-a001-d6d0f5f4ccb4": {
+                "submission_date": "2023-10-10 18:17:00",
+                "rank": "D",
+                "time": 4,
+                "percentile": 4
+            }
+        }
+    },
+    "my_memcmp": {
+        "tags": {
+            "33d77855-97cd-4ed8-9bf2-e91ce8269b6d": {
+                "submission_date": "2023-10-10 17:41:00",
+                "rank": "C",
+                "time": 5,
+                "percentile": 3
+            }
+        }
+    },
+    "check_alphabet": {
+        "tags": {
+            "fd41f73b-9d5b-4837-bc8e-8da90d258070": {
+                "submission_date": "2023-10-03 18:09:00",
+                "rank": "A",
+                "time": 76,
+                "percentile": 1
+            }
+        }
+    },
+    "hello_world": {
+        "tags": {
+            "0779c062-91a1-4c54-bf6d-11c95106c482": {
+                "submission_date": "2023-10-02 16:48:00",
+                "rank": "D",
+                "time": 0,
+                "percentile": 4
+            }
+        }
+    },
+    "basic_ast": {
+        "tags": {}
+    },
+    "io_merge_files": {
+        "tags": {
+            "a3c4182d-30c5-4dc2-adf5-95e66716492b": {
+                "submission_date": "2023-10-11 19:40:00",
+                "rank": "D",
+                "time": 16,
+                "percentile": 4
+            },
+            "7c1e82bd-216e-46c4-a553-7522f47a3b1f": {
+                "submission_date": "2023-10-11 19:35:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "io_count_words": {
+        "tags": {
+            "e792c818-a35d-4c98-870e-d085504778ef": {
+                "submission_date": "2023-10-11 15:30:00",
+                "rank": "A",
+                "time": 5,
+                "percentile": 1
+            },
+            "4ba492c8-b5f7-4b4d-aae2-dfe06efc6cac": {
+                "submission_date": "2023-10-11 15:23:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "vector": {
+        "tags": {
+            "8abc07ab-774d-4374-ad48-371fefaa1010": {
+                "submission_date": "2023-10-09 22:17:00",
+                "rank": "F",
+                "time": 434,
+                "percentile": 6
+            },
+            "6f5a088e-23f2-4371-8e1f-a0539106c7de": {
+                "submission_date": "2023-10-09 22:11:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            },
+            "57131c6e-ea49-4644-8680-0660f4afac50": {
+                "submission_date": "2023-10-09 22:06:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "int_vector_bubble_sort": {
+        "tags": {
+            "867c43fc-fafa-43a4-bfa6-7d80fa618b32": {
+                "submission_date": "2023-10-04 16:38:00",
+                "rank": "E",
+                "time": 4,
+                "percentile": 5
+            }
+        }
+    },
+    "hill_array": {
+        "tags": {
+            "5be76e69-356c-43f6-ba5a-f804e1b2e28f": {
+                "submission_date": "2023-10-03 17:24:00",
+                "rank": "A",
+                "time": 4,
+                "percentile": 1
+            },
+            "939be770-8c8d-44ac-9dd3-0f78e24f38cd": {
+                "submission_date": "2023-10-03 17:15:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "selection_sort": {
+        "tags": {
+            "5465eabc-bb1b-4543-a016-a6e6bd63011e": {
+                "submission_date": "2023-10-03 16:19:00",
+                "rank": "F",
+                "time": 43,
+                "percentile": 6
+            }
+        }
+    },
+    "bubble_sort": {
+        "tags": {
+            "1e68e01d-a56c-49c0-9f56-08acefb8edff": {
+                "submission_date": "2023-10-03 16:42:00",
+                "rank": "E",
+                "time": 54,
+                "percentile": 5
+            }
+        }
+    },
+    "date_format": {
+        "tags": {
+            "de1303b0-250f-49b9-aab3-b424a934689d": {
+                "submission_date": "2023-10-06 15:50:00",
+                "rank": "A",
+                "time": 83,
+                "percentile": 1
+            },
+            "05c2e725-0ca7-4f9c-aeae-5c64263ee9d3": {
+                "submission_date": "2023-10-06 15:44:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            },
+            "093f85ee-2d57-498c-b016-d13b4110d0e0": {
+                "submission_date": "2023-10-06 15:26:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "string_replace": {
+        "tags": {
+            "7d8b0219-bf28-4a72-894a-12673b94def4": {
+                "submission_date": "2023-10-06 10:31:00",
+                "rank": "B",
+                "time": 99,
+                "percentile": 2
+            }
+        }
+    },
+    "binary_search": {
+        "tags": {
+            "91ae8588-9543-410b-ace5-52606bb94fe1": {
+                "submission_date": "2023-10-03 19:00:00",
+                "rank": "E",
+                "time": 12,
+                "percentile": 5
+            },
+            "3de2e890-42dd-4a70-b3c6-5236660da5d2": {
+                "submission_date": "2023-10-03 18:51:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "my_itoa_base": {
+        "tags": {
+            "31ed0164-3eb8-4c0a-babb-fce6fbf3f2f1": {
+                "submission_date": "2023-10-03 21:55:00",
+                "rank": "A",
+                "time": 4,
+                "percentile": 1
+            }
+        }
+    },
+    "int_sqrt": {
+        "tags": {
+            "8f37ebd8-2bc9-4f3c-baf4-24fbbbc08be2": {
+                "submission_date": "2023-10-02 20:59:00",
+                "rank": "B",
+                "time": 0,
+                "percentile": 2
+            }
+        }
+    },
+    "greatest_divisor": {
+        "tags": {
+            "2b98a4c9-b0c2-41fd-a27f-a198dfce5fb9": {
+                "submission_date": "2023-10-02 21:11:00",
+                "rank": "C",
+                "time": 0,
+                "percentile": 3
+            }
+        }
+    },
+    "fibo_iter": {
+        "tags": {
+            "be407244-484a-435f-9b39-fc8b6ad71938": {
+                "submission_date": "2023-10-02 20:43:00",
+                "rank": "D",
+                "time": 4,
+                "percentile": 4
+            }
+        }
+    },
+    "alphabet": {
+        "tags": {
+            "e30234ff-a8c1-49bf-823b-dfc8ccd1d19c": {
+                "submission_date": "2023-10-02 20:50:00",
+                "rank": "F",
+                "time": 0,
+                "percentile": 6
+            }
+        }
+    },
+    "lookup_table": {
+        "tags": {
+            "96e882c6-b8de-4bae-ab33-9ad3189eebd8": {
+                "submission_date": "2023-10-04 10:58:00",
+                "rank": "C",
+                "time": 6,
+                "percentile": 3
+            },
+            "1de00f2a-0dd8-4523-9470-dbbe81d1d549": {
+                "submission_date": "2023-10-04 10:54:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "ring_buffer": {
+        "tags": {}
+    },
+    "my_abs": {
+        "tags": {
+            "1b4e2801-fef3-461c-89fd-0195c5120a35": {
+                "submission_date": "2023-10-02 17:42:00",
+                "rank": "A",
+                "time": 0,
+                "percentile": 1
+            }
+        }
+    },
+    "my_round": {
+        "tags": {
+            "59b20e63-1bee-48c7-a41d-a360e3473974": {
+                "submission_date": "2023-10-02 19:53:00",
+                "rank": "D",
+                "time": 6,
+                "percentile": 4
+            }
+        }
+    },
+    "repeat": {
+        "tags": {
+            "0688d176-9f4d-4782-941d-9eaec7c77e8b": {
+                "submission_date": "2023-10-02 20:24:00",
+                "rank": "F",
+                "time": 2,
+                "percentile": 6
+            }
+        }
+    },
+    "hello_friends": {
+        "tags": {
+            "14969ea2-7a08-456f-a60e-2d1047c7a695": {
+                "submission_date": "2023-10-02 18:39:00",
+                "rank": "B",
+                "time": 0,
+                "percentile": 2
+            }
+        }
+    },
+    "my_recycler": {
+        "tags": {}
+    },
+    "pine": {
+        "tags": {
+            "559fa961-27d7-4e82-8826-79c4687acc65": {
+                "submission_date": "2023-10-03 13:19:00",
+                "rank": "F",
+                "time": 17,
+                "percentile": 6
+            }
+        }
+    },
+    "my_c_tail": {
+        "tags": {
+            "41c91655-dee6-4d66-b9a6-d8aff7cf6670": {
+                "submission_date": "2023-10-10 13:54:00",
+                "rank": "B",
+                "time": 1,
+                "percentile": 2
+            },
+            "8e5c468d-7800-40b7-bf71-ecd37fc94bb8": {
+                "submission_date": "2023-10-10 12:01:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "heap_sort": {
+        "tags": {
+            "158760d6-9118-4879-845f-9a4b465cf382": {
+                "submission_date": "2023-10-09 16:43:00",
+                "rank": "E",
+                "time": 13,
+                "percentile": 5
+            },
+            "16901db8-6e5b-488c-bfd5-289f11d2af05": {
+                "submission_date": "2023-10-09 16:34:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "heap": {
+        "tags": {
+            "6031dc21-0e7e-44f3-88f6-b95f1b21ec84": {
+                "submission_date": "2023-10-07 21:54:00",
+                "rank": "B",
+                "time": 31,
+                "percentile": 2
+            },
+            "f0661442-3c57-4f21-b182-1a94533ceed8": {
+                "submission_date": "2023-10-07 21:38:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "clang-format": {
+        "tags": {
+            "5420a9a3-17cd-4402-88ca-553968441a7c": {
+                "submission_date": "2023-10-04 10:32:00",
+                "rank": "C",
+                "time": 0,
+                "percentile": 3
+            },
+            "8df9ef70-7461-4997-b279-5d6572b0f870": {
+                "submission_date": "2023-10-04 10:25:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            },
+            "9e020d1e-967b-4bd8-91e1-9311e29c7b39": {
+                "submission_date": "2023-10-04 10:19:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "dlist_advanced": {
+        "tags": {
+            "9eb77553-1ab2-4012-a948-806af48ae545": {
+                "submission_date": "2023-10-12 13:39:00",
+                "rank": "C",
+                "time": 117,
+                "percentile": 3
+            },
+            "622a22db-2114-4f3d-9111-2b8cda01af62": {
+                "submission_date": "2023-10-12 12:01:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "my_strcmp": {
+        "tags": {
+            "799fa33d-9094-414c-a43c-79574068f298": {
+                "submission_date": "2023-10-03 15:25:00",
+                "rank": "C",
+                "time": 6,
+                "percentile": 3
+            }
+        }
+    },
+    "my_strcpy": {
+        "tags": {
+            "3fca797f-bd65-4f66-bfcc-6cb594629447": {
+                "submission_date": "2023-10-03 15:05:00",
+                "rank": "F",
+                "time": 3,
+                "percentile": 6
+            }
+        }
+    },
+    "null_terminated_arrays": {
+        "tags": {
+            "a4b08de5-f23b-42c8-a87e-032a14b5d58d": {
+                "submission_date": "2023-10-10 18:52:00",
+                "rank": "C",
+                "time": 0,
+                "percentile": 3
+            }
+        }
+    },
+    "variant": {
+        "tags": {
+            "993bd76b-5008-43c2-a4c8-a450e5e9a8b3": {
+                "submission_date": "2023-10-10 13:37:00",
+                "rank": "A",
+                "time": 141,
+                "percentile": 1
+            },
+            "9ee486f8-7756-4d52-befd-dfc4055fb3e9": {
+                "submission_date": "2023-10-10 12:03:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "binary_cipher": {
+        "tags": {
+            "fd3464e4-f3dc-46eb-a914-02ae6bc34c7b": {
+                "submission_date": "2023-10-09 17:20:00",
+                "rank": "B",
+                "time": 7,
+                "percentile": 2
+            }
+        }
+    },
+    "ascii_carousel": {
+        "tags": {
+            "c1c9b0b4-f3dd-464b-967d-81876282bc19": {
+                "submission_date": "2023-10-03 19:27:00",
+                "rank": "E",
+                "time": 48,
+                "percentile": 5
+            },
+            "538ce0b9-d082-45e2-96ae-e4fc68778c0d": {
+                "submission_date": "2023-10-03 19:24:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "vigenere": {
+        "tags": {
+            "b2d1cade-cee6-4f4e-a893-61fc9898df00": {
+                "submission_date": "2023-10-03 21:17:00",
+                "rank": "A",
+                "time": 92,
+                "percentile": 1
+            }
+        }
+    },
+    "display_square": {
+        "tags": {
+            "fdb1789c-ac8f-418e-bcf9-c89e5dba0aaf": {
+                "submission_date": "2023-10-03 13:17:00",
+                "rank": "F",
+                "time": 23,
+                "percentile": 6
+            },
+            "7624e4d3-be65-44b8-a437-931a307cb6bb": {
+                "submission_date": "2023-10-02 21:38:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "my_strlowcase": {
+        "tags": {
+            "f3cd0af3-fe81-448b-b580-7e5db5de6127": {
+                "submission_date": "2023-10-03 15:32:00",
+                "rank": "B",
+                "time": 6,
+                "percentile": 2
+            }
+        }
+    },
+    "levenshtein": {
+        "tags": {
+            "f2e4d48e-f3d1-4943-82b4-01058f50d146": {
+                "submission_date": "2023-10-04 13:24:00",
+                "rank": "C",
+                "time": 26516,
+                "percentile": 3
+            }
+        }
+    },
+    "array_max_min": {
+        "tags": {
+            "d7d26372-d5c1-4314-8bf6-b39f55f719ec": {
+                "submission_date": "2023-10-03 17:38:00",
+                "rank": "F",
+                "time": 5,
+                "percentile": 6
+            },
+            "7f35956b-850d-43a6-a840-cc5c962098cc": {
+                "submission_date": "2023-10-03 17:30:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "rotx": {
+        "tags": {
+            "25d09936-3b26-40fd-b446-5f9b426bd0d2": {
+                "submission_date": "2023-10-09 18:06:00",
+                "rank": "D",
+                "time": 3,
+                "percentile": 4
+            }
+        }
+    },
+    "run_length_encoding": {
+        "tags": {
+            "523acba6-da49-443a-98de-23c2689ef41c": {
+                "submission_date": "2023-10-19 13:09:00",
+                "rank": "D",
+                "time": 13,
+                "percentile": 4
+            },
+            "12589cd7-12c9-4ed8-a1fd-1063fad3eeab": {
+                "submission_date": "2023-10-19 13:07:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "freq_analysis": {
+        "tags": {
+            "3dd12696-8539-4961-a826-c9efa5715b98": {
+                "submission_date": "2023-10-04 17:34:00",
+                "rank": "B",
+                "time": 6,
+                "percentile": 2
+            }
+        }
+    },
+    "csv": {
+        "tags": {
+            "6bc690fc-1e6b-46ec-8ba3-e97f5740028e": {
+                "submission_date": "2023-10-13 15:44:00",
+                "rank": "F",
+                "time": 2,
+                "percentile": 6
+            }
+        }
+    },
+    "fact": {
+        "tags": {
+            "83b39195-566b-4403-b47c-a72f2e74ebb4": {
+                "submission_date": "2023-10-02 20:28:00",
+                "rank": "F",
+                "time": 8,
+                "percentile": 6
+            }
+        }
+    },
+    "traffic_lights": {
+        "tags": {
+            "31c73d0f-2cae-40a5-b6dc-27ff81dd0459": {
+                "submission_date": "2023-10-09 17:04:00",
+                "rank": "B",
+                "time": 103,
+                "percentile": 2
+            }
+        }
+    },
+    "binary_search_ptr": {
+        "tags": {
+            "e1fb3ab2-22e7-486d-8ce4-9022c2bd8133": {
+                "submission_date": "2023-10-04 10:48:00",
+                "rank": "A",
+                "time": 84,
+                "percentile": 1
+            }
+        }
+    },
+    "element_count": {
+        "tags": {
+            "decee408-cd9d-4a7a-86ae-5c1b9f230371": {
+                "submission_date": "2023-10-03 21:41:00",
+                "rank": "E",
+                "time": 0,
+                "percentile": 5
+            }
+        }
+    },
+    "grade": {
+        "tags": {
+            "98a6a189-f539-414e-bd9d-f853658bdeee": {
+                "submission_date": "2023-10-02 18:10:00",
+                "rank": "E",
+                "time": 2,
+                "percentile": 5
+            },
+            "9bdb7725-b6b1-4960-96a8-61387099eef2": {
+                "submission_date": "2023-10-02 17:31:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "hanoi": {
+        "tags": {
+            "f27d56be-53a7-4b02-ad21-7c936455a5ba": {
+                "submission_date": "2023-10-03 14:04:00",
+                "rank": "B",
+                "time": 0,
+                "percentile": 2
+            },
+            "509f7f2e-8bcd-47d4-b89a-357e84204ce3": {
+                "submission_date": "2023-10-03 14:03:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "number_digits_rec": {
+        "tags": {
+            "e59f0d1c-9161-4ab4-bc27-c6b9a3ba7f49": {
+                "submission_date": "2023-10-02 20:37:00",
+                "rank": "C",
+                "time": 0,
+                "percentile": 3
+            }
+        }
+    },
+    "fibo": {
+        "tags": {
+            "3e55ff5f-d524-454c-a0d0-b73571bbe2bd": {
+                "submission_date": "2023-10-02 20:31:00",
+                "rank": "C",
+                "time": 57,
+                "percentile": 3
+            }
+        }
+    },
+    "insertion_sort": {
+        "tags": {
+            "350eba73-4e93-4cbc-8b77-6c85aee09f48": {
+                "submission_date": "2023-10-12 14:02:00",
+                "rank": "B",
+                "time": 6,
+                "percentile": 2
+            },
+            "dfb8b10b-36d9-4b59-b7bb-e46f0cbdffcb": {
+                "submission_date": "2023-10-12 13:59:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "my_strstr": {
+        "tags": {
+            "f05ddc06-08de-4a85-9d97-085bc0606fb7": {
+                "submission_date": "2023-10-05 16:59:00",
+                "rank": "E",
+                "time": 52,
+                "percentile": 5
+            },
+            "f33176dd-ff9e-47e0-8cb3-fd70bd42fb25": {
+                "submission_date": "2023-10-05 16:54:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "my_strspn": {
+        "tags": {
+            "01bbd81e-8987-4782-a264-693467943881": {
+                "submission_date": "2023-10-04 16:51:00",
+                "rank": "D",
+                "time": 13,
+                "percentile": 4
+            }
+        }
+    },
+    "quick_sort": {
+        "tags": {
+            "c7cff1b7-b3cf-4a61-81f4-a0bcc1375cd5": {
+                "submission_date": "2023-10-05 19:19:00",
+                "rank": "E",
+                "time": 22,
+                "percentile": 5
+            }
+        }
+    },
+    "lca": {
+        "tags": {}
+    },
+    "red_black_tree": {
+        "tags": {}
+    },
+    "my_strcasecmp": {
+        "tags": {
+            "5a0ec785-c83b-40dc-88a9-6fcb7c335219": {
+                "submission_date": "2023-10-03 16:03:00",
+                "rank": "D",
+                "time": 7,
+                "percentile": 4
+            },
+            "d5a4f2a4-c8b3-4ebd-9964-79798c778493": {
+                "submission_date": "2023-10-03 15:52:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "my_pow": {
+        "tags": {
+            "9495df0e-dbd6-4d2a-8d47-638e21f6b34e": {
+                "submission_date": "2023-10-03 13:22:00",
+                "rank": "D",
+                "time": 3,
+                "percentile": 4
+            }
+        }
+    },
+    "my_strtok_r": {
+        "tags": {
+            "63996585-8f38-4dfb-a96c-2b76a92df32f": {
+                "submission_date": "2023-10-06 10:10:00",
+                "rank": "C",
+                "time": 6,
+                "percentile": 3
+            },
+            "d8d9da98-b61b-41b5-986d-4f356da40573": {
+                "submission_date": "2023-10-05 20:33:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            },
+            "d1536cfd-3d86-4095-ac97-5374129e0424": {
+                "submission_date": "2023-10-05 20:00:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            },
+            "c41f2960-896f-46fd-a1bb-488b88cb8337": {
+                "submission_date": "2023-10-05 18:57:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            },
+            "ec8b93b4-e795-4ff7-93af-9181241c6997": {
+                "submission_date": "2023-10-05 18:54:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            },
+            "a1ace258-a80e-4538-bbf5-ac2fd8daeb43": {
+                "submission_date": "2023-10-05 18:01:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    },
+    "sieve_eratosthenes_advanced": {
+        "tags": {
+            "56bbc994-339e-46e6-b4a0-e8a890906a85": {
+                "submission_date": "2023-10-07 19:03:00",
+                "rank": "B",
+                "time": 1391,
+                "percentile": 2
+            },
+            "3c241def-a98e-4212-b9c0-7b2ea15f27d0": {
+                "submission_date": "2023-10-07 16:56:00",
+                "rank": "E",
+                "time": 5723,
+                "percentile": 5
+            },
+            "59f57299-35d3-4c69-887e-71606e44bd8b": {
+                "submission_date": "2023-10-07 16:50:00",
+                "rank": "N",
+                "time": -1,
+                "percentile": 0
+            }
+        }
+    }
+}
