@@ -1,35 +1,57 @@
 # ERO2
 
-**Membres du groupe :**
+## Présentation
 
-- Paul Pazart
-- Lucas Burgaud
-- Kylian Bozec
-- Etienne Senigout
-- Guillaume Hanry
-- Pierre Braud
+**Étude des comportements de systèmes d’attente**  
 
-Un rapport exhaustif situé à la racine du repository contient toutes les informations théoriques (problématique, systèmes) liées au projet ainsi que les solutions adaptées et notre analyse des différents scénarios simulés.
+Ce projet s’intéresse à la question suivante :  
 
-Les résultats bruts de nos simulations sont disponibles dans le dossier `backend/results/`.
+Quel effet a la priorisation des utilisateurs sur les performances du système lors des rendus de TP prépa et de piscine C ?  
 
-### Prérequis
+Dans ce rapport, nous analysons l’infrastructure de correction automatique d’EPITA.  
+Nous étudions ce système de moulinettage sous différents angles mathématiques et expérimentaux.  
 
-- Python 3.x installé sur votre machine
+Pour rendre notre analyse pertinente, nous nous sommes appuyés sur :  
+- des données réelles issues des graphiques disponibles sur Grafana  
+- nos propres données scrappées directement depuis l’intra (tous les tags de chaque exercice avec leur temps de traitement en ms)  
 
-### Installation
+Les résultats bruts de nos simulations sont disponibles dans le dossier backend/results/.
 
-1. Cloner le dépôt ou télécharger les fichiers.
-2. Ouvrir un terminal et se placer dans le dossier `backend` :
+## Prérequis
+
+- Python 3.x installé sur votre machine.
+
+## Installation et lancement
+
+1. Cloner le dépôt ou télécharger les fichiers.  
+2. Installer les dépendances :
+  
+```bash
+pip install -r requirements.txt
+```
+
+3. Se placer dans le dossier backend :
 
 ```bash
 cd backend
 ```
 
-2. Lancer le script principal pour générer des tags et simuler un scénario :
-
-A noter : l'architecture utilisée peut être changée au niveau du `main.py`. Nous avons par défaut mis des paramètres "réalistes" mais tout peut être modifié. Les fichiers relatifs à la paramétrisation du système sont : `main.py`, `model.py` et les scripts de chaque architecture (`waterfall.py`, etc).
+4. Lancer le script principal pour générer les tags et simuler un scénario :
 
 ```bash
-python3 -m main
+python -m main
 ```
+
+## Aller plus loin
+
+L'architecture utilisée peut être changée au niveau du `main.py`. Nous avons par défaut mis des paramètres "réalistes" mais tout peut être modifié. Les fichiers relatifs à la paramétrisation du système sont : `main.py`, `model.py`.
+
+---
+
+**Membres du groupe :**  
+- Paul Pazart  
+- Lucas Burgaud  
+- Kylian Bozec  
+- Etienne Senigout  
+- Guillaume Hanry  
+- Pierre Braud  
