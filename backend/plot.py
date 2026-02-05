@@ -40,6 +40,7 @@ def plot_queue_by_population_type(occupancy_df, rejected_tags_df, name : str):
     plt.title('Queue occupancy and rejected tags by population type over time')
     plt.tight_layout()
     plt.savefig(name)
+    plt.show()
 
 def plot_waiting_time_by_population_type(waiting_stats_df, name):
     population_types = get_population_types()

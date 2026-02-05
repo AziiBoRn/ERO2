@@ -57,7 +57,7 @@ class ChannelsAndDamsQueueSystem(QueueSystem):
         rejected_df_list = []
 
         sorted_tags = sorted(inp.tags, key=lambda tag: tag.time)
-        step = len(sorted_tags) // 1000
+        step = len(sorted_tags) // 10
 
         entry_occupancies = {
             PopulationType.ING: deque(),

@@ -19,6 +19,10 @@ from queuing.tools import *
 
 from pushs.generation import generate_pushes_cached
 
+import warnings
+warnings.simplefilter(action='ignore', category=FutureWarning)
+warnings.simplefilter(action='ignore', category=pd.errors.SettingWithCopyWarning)
+
 SCENARIO_NAME = "Test"
 
 FOLDER = pathlib.Path(__file__).parent
@@ -56,7 +60,7 @@ def main(inp : Input):
         output_file=stats_json_file
     )
 
-    print(population_stats)
+    #print(population_stats)
 
 if __name__ == "__main__":
     os.makedirs("results", exist_ok=True)
@@ -120,4 +124,4 @@ if __name__ == "__main__":
         }
     )
     
-    main(Input(tags=tags, architecture=ArchitectureType.WATERFALL, registry=registry, num_servers=200, population_queue_sizes={PopulationType.ING: 3000, PopulationType.PREPA: 600}, calendar_priority_config=calendar_config))
+    main(Input(tags=tags, architecture=ArchitectureType.CALENDAR_PRIORITY, registry=registry, num_servers=200, population_queue_sizes={PopulationType.ING: 3000, PopulationType.PREPA: 600}, calendar_priority_config=calendar_config))

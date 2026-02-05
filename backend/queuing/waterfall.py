@@ -34,7 +34,7 @@ class WaterfallQueueSystem(QueueSystem):
         df_list = []
 
         for i, tag in enumerate(sorted_tags):
-            step = len(sorted_tags) // 1000
+            step = len(sorted_tags) // 10
 
             if step > 0 and i % step == 0:
                 print(f"Processing tag {i}/{len(inp.tags)}")
